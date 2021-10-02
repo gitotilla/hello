@@ -1,3 +1,3 @@
 # hello
-![Otilla](https://i.imgur.com/6Cc5C1U.jpg)
+![Otilla](https://github.com/gitotilla/hello/blob/master/Otilla%20laser%20eyes.jpg)
 !
